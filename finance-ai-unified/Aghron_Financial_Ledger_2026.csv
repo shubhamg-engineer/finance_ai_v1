@@ -1,0 +1,50 @@
+Date,Category,Amount,Description
+2025-11-01,SaaS Subscriptions,350000,Stripe payout B2B SaaS Subscriptions
+2025-11-05,Enterprise Invoices,120000,Acme Corp Q4 Enterprise License Payment
+2025-11-10,Payroll & Salaries,-280000,Monthly employee salaries & benefits
+2025-11-15,Cloud Infrastructure,-75000,AWS hosting charge & database replication
+2025-11-20,Marketing & Advertising,-50000,Meta Ads growth campaigns
+2025-11-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2025-11-28,SaaS & Subscriptions,-30000,Slack, Notion, and Jira corporate renewals
+2025-12-01,SaaS Subscriptions,420000,Stripe payout B2B SaaS Subscriptions
+2025-12-05,Enterprise Invoices,100000,Globex Enterprise SLA payment
+2025-12-10,Payroll & Salaries,-290000,Monthly employee salaries & benefits
+2025-12-15,Cloud Infrastructure,-80000,AWS cloud server compute costs
+2025-12-20,Marketing & Advertising,-45000,Google Ads campaign acquisition
+2025-12-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2025-12-30,SaaS & Subscriptions,-30000,Monthly SaaS utility services renewal
+2026-01-01,SaaS Subscriptions,480000,Stripe payout B2B SaaS Subscriptions
+2026-01-05,Enterprise Invoices,150000,Initech Enterprise annual license contract
+2026-01-10,Payroll & Salaries,-290000,Monthly employee salaries & benefits
+2026-01-15,Cloud Infrastructure,-85000,AWS hosting infrastructure invoice
+2026-01-20,Marketing & Advertising,-60000,LinkedIn ads & Meta search campaign
+2026-01-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2026-01-28,SaaS & Subscriptions,-30000,Hubspot & Zendesk monthly fees
+2026-02-01,SaaS Subscriptions,520000,Stripe payout B2B SaaS Subscriptions
+2026-02-05,Enterprise Invoices,100000,Hooli Enterprise quarterly payment
+2026-02-10,Payroll & Salaries,-310000,Monthly employee salaries & benefits
+2026-02-15,Cloud Infrastructure,-90000,AWS cloud database usage billing
+2026-02-20,Marketing & Advertising,-65000,Google Search Ads and retargeting
+2026-02-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2026-02-28,SaaS & Subscriptions,-30000,Software subscription fees
+2026-03-01,SaaS Subscriptions,590000,Stripe payout B2B SaaS Subscriptions
+2026-03-05,Enterprise Invoices,180000,Stark Industries pilot phase deployment payment
+2026-03-10,Payroll & Salaries,-340000,Monthly employee salaries & contractors
+2026-03-15,Cloud Infrastructure,-100000,AWS web servers billing
+2026-03-20,Marketing & Advertising,-85000,Meta acquisition and influencer campaigns
+2026-03-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2026-03-28,SaaS & Subscriptions,-30000,SaaS utility subscriptions
+2026-04-01,SaaS Subscriptions,640000,Stripe payout B2B SaaS Subscriptions
+2026-04-05,Enterprise Invoices,100000,Wayne Enterprises pilot license agreement
+2026-04-10,Payroll & Salaries,-350000,Monthly employee salaries & benefits
+2026-04-15,Cloud Infrastructure,-110000,AWS infrastructure & data warehousing costs
+2026-04-20,Marketing & Advertising,-105000,Google & Meta Ads lead generation campaigns
+2026-04-25,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2026-04-28,SaaS & Subscriptions,-30000,GitHub Enterprise, Notion, and Linear billing
+2026-05-01,SaaS Subscriptions,710000,Stripe payout B2B SaaS Subscriptions
+2026-05-05,Enterprise Invoices,200000,Umbrella Corp Q2 Enterprise invoice settlement
+2026-05-10,Payroll & Salaries,-480000,Monthly employee payroll (includes hiring of 2 senior engineers)
+2026-05-15,Cloud Infrastructure,-140000,AWS surge due to intensive model training jobs
+2026-05-20,Marketing & Advertising,-85000,Product hunt launch and ad campaigns
+2026-05-23,Office Rent & Utilities,-45000,WeWork monthly office rental fee
+2026-05-25,SaaS & Subscriptions,-30000,Software subscription tools

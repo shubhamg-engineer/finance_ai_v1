@@ -1,0 +1,24 @@
+# Finance AI Chief Command — Backend Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+
+# LLM
+groq>=0.9.0
+httpx>=0.27.0
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.20.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Data parsing
+openpyxl>=3.1.2
+beautifulsoup4>=4.12.0
+
+# Python standard lib (no install needed): csv, json, io, hashlib, datetime, logging
